@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+}
+
+#pokedex {
+    min-height: 50vh;
+    background-color: lavenderblush;
+    color: rgb(51, 12, 37);
+}
+
+
+.info-container {
+    background-color: lightgrey;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+    min-height: 100px;
+    margin-top: -40px;
+}
